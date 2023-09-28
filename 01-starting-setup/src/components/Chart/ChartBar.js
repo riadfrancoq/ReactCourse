@@ -1,7 +1,6 @@
 import React from "react"
 
 import './ChartBar.css';
-import Chart from "./Chart";
 
 const ChartBar = ({value, maxValue, label}) => {
     
